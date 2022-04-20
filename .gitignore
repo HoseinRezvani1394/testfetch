@@ -3,6 +3,7 @@
 
 *~
 *.exe
+*.bak
 *.autosave
 *.a
 *.core
